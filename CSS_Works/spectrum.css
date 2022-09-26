@@ -1,0 +1,115 @@
+.hi{
+    height: 100px;
+    width: 100px;
+    margin-top: -100px ;
+    
+}
+#div1{
+    background-color: rgb(149, 243, 180);
+    height: 100px;
+    width: 100px;
+    margin-left: 250px; 
+    margin-top: 100px ;  
+}
+#div2{
+    background-color: rgb(61, 236, 61);  
+    margin-left: 360px;   
+}
+#div3{
+    background-color: rgb(12, 240, 61);
+    margin-left: 470px 
+}
+#div4{
+    background-color: rgb(2, 122, 38);
+    margin-left: 580px 
+}
+#div5{
+    background-color: rgba(17, 54, 2, 0.781);
+    margin-left: 690px 
+}
+#d1{
+    background-color: rgb(245, 111, 111);
+    height: 100px;
+    width: 100px;
+    margin-left: 139px;
+    margin-top: 50px;
+}
+.h1{
+    height: 100px;
+    width: 100px;
+    margin-top: -100px; 
+}
+#d2{
+    background-color: rgb(245, 50, 50);
+    margin-left: 250px; 
+     
+} 
+#d3{
+    background-color: rgb(241, 21, 21);
+    margin-left: 360px; 
+     
+} 
+#d4{
+    background-color: rgb(131, 4, 4);
+    margin-left: 470px; 
+     
+} 
+#d5{
+    background-color: rgb(46, 1, 1);
+    margin-left: 580px; 
+    
+} 
+#d6{
+    background-color: rgba(68, 29, 29, 0.438);
+    margin-left: 690px;     
+} 
+#d7{
+    background-color: rgba(126, 13, 13, 0.63);
+    margin-left: 800px;    
+}
+.h2{
+    height: 100px;
+    width: 100px;
+    margin-top: -100px; 
+}
+#i1{
+    background-color: rgb(195, 200, 241);
+    margin-left: 28px;
+    margin-top: 50px;
+}
+#i2{
+    background-color: rgb(95, 129, 241);
+    margin-left: 140px; 
+     
+} 
+#i3{
+    background-color: rgb(43, 47, 238);
+    margin-left: 250px; 
+     
+} 
+#i4{
+    background-color: rgb(4, 47, 112);
+    margin-left: 360px; 
+     
+} 
+#i5{
+    background-color: rgb(2, 12, 97);
+    margin-left: 470px; 
+    
+} 
+#i6{
+    background-color: rgb(29, 26, 58);
+    margin-left: 580px;     
+} 
+#i7{
+    background-color: rgb(17, 7, 44);
+    margin-left: 690px;    
+}
+#i8{
+    background-color: rgb(67, 62, 80);
+    margin-left: 800px;     
+} 
+#i9{
+    background-color: rgba(3, 62, 80, 0.664);
+    margin-left: 910px;    
+}

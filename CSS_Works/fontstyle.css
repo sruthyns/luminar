@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Josefin+Sans:ital,wght@1,700&display=swap');
+
+div{
+    width: 75%;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    font-size:large;
+    font-family: 'Dancing Script', cursive;
+    background-image:url("./images/coffe.jpg") ;
+    background-size: cover;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+body{
+    background-image: url("./images/download.jpg");
+    background-size: cover;
+}

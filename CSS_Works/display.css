@@ -1,0 +1,25 @@
+.row{
+    width: 75%;
+    height: 600px;
+    background-color: black;
+    display: flex;
+    justify-content: start;
+    align-items: center ;
+}
+.col{
+    height: 400px;
+    width: 200px;
+    background-color: blue;
+}
+.col-1{
+    background-color: blueviolet;
+}
+.col-2{
+    background-color: rgb(18, 187, 187);
+}
+.col-3{
+    background-color: brown;
+}
+.col-4{
+    background-color: rgb(19, 235, 19);
+}

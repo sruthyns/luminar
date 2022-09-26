@@ -1,0 +1,14 @@
+div{
+    height:400px;
+    width: 15%;
+    background-color: rgb(233, 225, 225);
+    border: solid 2px black;
+    float: left; 
+    /* to arrange the row */
+    text-align: center;
+    padding: 10px;
+}
+div img{
+    width: 100%;
+    height: 150px;
+}
